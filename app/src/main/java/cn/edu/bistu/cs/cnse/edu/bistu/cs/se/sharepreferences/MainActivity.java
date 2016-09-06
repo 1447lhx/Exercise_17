@@ -1,5 +1,4 @@
 package cn.edu.bistu.cs.cnse.edu.bistu.cs.se.sharepreferences;
-
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
